@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GrayPanda07
-- 👀 I’m interested in bioinformatics
-- 🌱 I’m currently learning: Microsoft Power BI
+- 👀 I’m interested in bioinformatics and data analysis
+- 🌱 I’m currently learning: Microsoft Power BI and SQL
 - 📫 How to reach me: Email - noikovitcha@gmail.com, Instagram - Alexandria_Noikovitch, Linkein - Alexandria Noikovitch
 - 🌐 Website: alexandrianoikovitch.weebly.com
 - 😄 Pronouns: She/Her
